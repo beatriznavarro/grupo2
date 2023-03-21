@@ -14,7 +14,11 @@ A empresa escolhida pelo grupo foi o [iFood](https://www.ifood.com.br/). Você p
 
 ![Tecnologias](/images/iFood/tech.PNG)
 
-#### Quais as metodologias são utilizadas pelo iFood?
+#### E APIs?
+
+![APIs](/images/iFood/APIs.PNG)
+
+#### Quais metodologias são utilizadas pelo iFood?
 
 ![Metodologias](/images/iFood/methodologies.PNG)
 
