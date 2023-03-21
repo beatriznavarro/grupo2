@@ -9,7 +9,7 @@ A mensagem do commit deve ser estruturada da seguinte forma:
 ### Tipos 
 
 - fix: alguma correção realizada no código
-- feat: uma nova funcionalidade adicionada ao cósigo
+- feat: uma nova funcionalidade adicionada ao código
 
 #### Tipos adicionais (baseado na Convenção do Angular)
 
