@@ -1,6 +1,6 @@
 ## Padrões de commit
 
-Optamos por escolher o [convetionalcommits](https://www.conventionalcommits.org/pt-br/v1.0.0/) como especificação e padronização para realização dos commits.
+Optamos pelo [convetionalcommits](https://www.conventionalcommits.org/pt-br/v1.0.0/) como especificação e padronização dos commits.
 
 A mensagem do commit deve ser estruturada da seguinte forma:
 
