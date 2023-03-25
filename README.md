@@ -46,5 +46,12 @@ A empresa escolhida pelo grupo foi o [iFood](https://www.ifood.com.br/). Você p
 - [Code review](docs/code-review.md)
 
 ## CI/CD Pipeline
+
+- [CI/CD Pipeline](docs/ci-cd-pipeline.md)
+
 ## Diagrama de componentes
+
+
 ## Disaster Recovery
+
+- [Disaster Recovery](docs/disaster-recovery.md)
