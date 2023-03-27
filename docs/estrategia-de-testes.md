@@ -18,16 +18,16 @@ Possuímos testes do frontend da aplicação (Testes de UI) e no backend (Testes
 
 - Testes de integração: Um sitema de pedidos online possui algumas integrações essenciais sem as quais não é possível funcionar, que são: Meio de pagamentos e  Tecnologias de localização; e algumas outras integrações que melhoram a experiência do usuário, como: tecnologias de recomendação, chatbots, etc.
 
-Desta forma a realização de testes de integração é essencial, tanto entre componentes menores (Sandwich testing) quanto considerando o sistema como um todo (Big bang testing).
+Desta forma a realização de testes de integração é essencial, tanto entre componentes menores (Sandwich testing) quanto considerando o sistema como um todo (Big bang   testing).
 
 
 - Testes de performance: Conhecendo nossos horários de pico conseguimos desenhar uma estratégia de testes de performance para garantir que em momentos de alta demanda nosso serviço funcionará adequadamente.
 
 Alguns tipos de testes que realizamos são:
 
-- Teste de estresse;
-- Teste de volume;
-- Teste de escalabilidade.
+Teste de estresse;
+Teste de volume;
+Teste de escalabilidade.
 
 
 - Teste de segurança: Como nossa principal integração é realizada com meios de pagamentos precisamos garantir que os dados de pagamentos dos nossos clientes sejam tratados de forma segura. Para isso realizamos testes de segurança a fim de evitar qualquer possível vulnerabilidade.
