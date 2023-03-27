@@ -33,6 +33,8 @@ A empresa escolhida pelo grupo foi o [iFood](https://www.ifood.com.br/). Você p
 
 ## Padrões de código
 
+- [Padrões de issues](docs/padroes-de-issues.md)
+
 - [Padrões de Commits](docs/padroes-de-commits.md)
 
 - [Padrões de desenvolvimento](docs/padroes-de-desenvolvimento.md)
@@ -50,6 +52,12 @@ A empresa escolhida pelo grupo foi o [iFood](https://www.ifood.com.br/). Você p
 - [CI/CD Pipeline](docs/ci-cd-pipeline.md)
 
 ## Diagrama de componentes
+
+
+![Diagrama de componentes](/images/iFood/diagrama.drawio.png)
+
+
+Disponível [aqui](https://drive.google.com/file/d/1d_1G3Wexrew_L3gDOe7ZZea2m-Syybvl/view?usp=sharing)
 
 
 ## Disaster Recovery

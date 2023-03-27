@@ -17,13 +17,13 @@ A mensagem do commit deve ser estruturada da seguinte forma:
 
 ### Escopo
 
-Um escopo pode ser fornecido ao tipo do commit, para fornecer informações contextuais adicionais
+Um escopo pode ser fornecido ao tipo do commit para informações contextuais adicionais
 
 Ex.: feat(parser): adiciona capacidade de interpretar arrays.
 
 ### Rodapé
 
-- BREAKING CHANGE: um commit que contém no rodapé opcional o texto BREAKING CHANGE:, ou contém o símbolo ! depois do tipo/escopo, insere uma modificação que quebra a compatibilidade da API. Pode ser usado com qualquer tipo de commit.
+- BREAKING CHANGE: um commit que contém no rodapé opcional o texto BREAKING CHANGE:, ou contém o símbolo ! depois do tipo/escopo, insere uma modificação que quebra a compatibilidade da aplicação. Pode ser usado com qualquer tipo de commit.
 
 ### Benefícios ao utilizar um padrão
 
