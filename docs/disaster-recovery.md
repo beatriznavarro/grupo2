@@ -1,6 +1,6 @@
 Segundo o ChatGPT Disaster Recovery é:
 
-![Disaster Recovery](/images/Disater-Recovery.png)
+![Disaster Recovery](/images/Distaster-Recovery.png)
 
 Para se preparar para a recuperação de desastres, o iFood pode seguir os seguintes passos:
 
